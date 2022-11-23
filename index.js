@@ -4,3 +4,4 @@ if (a) {
 }
 
 function somefun() {}
+function test() {}
